@@ -1,0 +1,197 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  #topbar .bar .logo {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+  button.navbar-toggler{
+    margin: 0 15px;
+  }
+ul.navbar-nav.mr-auto{
+  background: #4e4c4ce1; 
+  
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+  font-size: 14px;
+}
+.navbar-light .navbar-nav .nav-link{
+  font-size: 14px;  
+  padding-left: 15px;
+}
+i.fas.fa-search{
+  padding-right: 15px;
+}
+#topbar .bar ul {
+  padding-top: 28px;
+  margin-bottom: 0;
+}
+#topbar .bar ul li{
+  height: 28px;
+  width: 28px;
+  line-height: 28px;
+}
+
+.navbar{
+  top: 70px;
+}
+
+
+#banner .slider_child .slider_item h1{
+  font-size: 26px;
+}
+#banner .slider_child .slider_item p{
+  font-size: 16px;
+}
+#banner .slider_child .slider_item a{
+  font-size: 14px;
+}
+#banner .slider_child {
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 100px;
+  z-index: 1;
+}
+
+#team .team-item{
+  padding-top: 20px;
+  padding-bottom: 35px;
+}
+#team .team-item h3{
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+#team .team-item p{
+  font-size: 14px;
+  padding: 0 20px;
+}
+#service .service-item{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+#service .service-item p{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#work .work-cap{
+  padding-bottom: 0;
+  padding-top: 30px;
+}
+#work .work-cap h3{
+  font-size: 20px;
+}
+#work .work-cap p{
+  padding: 0 20px;
+  font-size: 14px;
+}
+#work .work-bg{
+  height: 230px;
+}
+
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #topbar .bar .logo {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+  button.navbar-toggler{
+    margin: 0 15px;
+  }
+ul.navbar-nav.mr-auto{
+  background: #4e4c4ce1; 
+  
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+  font-size: 14px;
+}
+.navbar-light .navbar-nav .nav-link{
+  font-size: 14px;  
+  padding-left: 15px;
+}
+i.fas.fa-search{
+  padding-right: 15px;
+}
+#topbar .bar ul {
+  padding-top: 28px;
+  margin-bottom: 0;
+}
+#topbar .bar ul li{
+  height: 28px;
+  width: 28px;
+  line-height: 28px;
+}
+
+.navbar{
+  top: 70px;
+}
+
+
+#banner .slider_child .slider_item h1{
+  font-size: 26px;
+}
+#banner .slider_child .slider_item p{
+  font-size: 16px;
+}
+#banner .slider_child .slider_item a{
+  font-size: 14px;
+}
+#banner .slider_child {
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 100px;
+  z-index: 1;
+}
+
+#team .team-item{
+  padding-top: 20px;
+  padding-bottom: 35px;
+}
+#team .team-item h3{
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+#team .team-item p{
+  font-size: 14px;
+  padding: 0 20px;
+}
+#service .service-item{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+#service .service-item p{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#work .work-cap{
+  padding-bottom: 0;
+  padding-top: 30px;
+}
+#work .work-cap h3{
+  font-size: 20px;
+}
+#work .work-cap p{
+  padding: 0 20px;
+  font-size: 14px;
+}
+#work .work-bg{
+  height: 230px;
+}
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
