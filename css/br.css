@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    color: coral;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+a:hover{
+    color: rgb(205, 224, 205);
+    text-decoration: none;
+}
+body{
+    /* background: url(../images/bookmoon.jpg); */
+    background-color: #343434e5;
+    
+}
+.navbar-brand{
+    font-family: 'Atma', cursive;
+    font-size: 38px;
+    font-weight: 800;
+    color: rgb(250, 3, 3);
+}
+.post h3{
+    color: #87b672;
+    font-family: 'Mina', sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+}
+.post{
+    margin-bottom: 50px;
+}
+.post small{
+    font-family: 'Atma', cursive;
+    
+    font-weight: 600;
+    color: rgb(230, 217, 217);
+}
+.post p{
+    font-family: 'Mina', sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    color: rgb(250, 248, 245);
+}
+
+
+#main-footer{
+    color: blanchedalmond;
+    text-align: center;
+    margin: 20px auto;
+}
